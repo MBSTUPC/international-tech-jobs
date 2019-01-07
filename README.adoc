@@ -1,49 +1,61 @@
-# Where to find international tech jobs
+# International Tech Jobs
 
 image::images/job.png[]
 
 
 ### Who is this for?
+You are a Computer Science / Information Technology graduate who - wants to relocate to different country with a Tech Job.
 
-You are a Computer Science / Information Technology graduate who - wants to relocate to different country.
 
-
-### The common places
-
+### Where to Find International Tech Jobs
 International job searching can be tricky. You need companies that not only hire international talent but also help
-with the visa.
+with the visa/relocation.
 
-* Apply directly from company websites.
-  - Just google.
-* https://www.linkedin.com/jobs/search/?keywords=java&location=Amsterdam%20Area%2C%20Netherlands&locationId=nl%3A5664[Linkedin Jobs]
-  - Linkedin doesn't have visa sponsor filter.
-  - Read the job post to check if they are sponsoring visa.
-* https://jobs.github.com/[Github Jobs]
+* *Internal Referral*. Internal refer is the most effective way to get noticed. So If you know some one in the
+company in your list, ask them if the have referral system and can forward your Resume.
 
+* Apply directly from the company career page. Just google, and find out the job/career page of company.
+Submit your application.
 
-### Most effective places
-
-* https://stackoverflow.com/jobs?tl=java&v=true&sort=p[Stack Overflow Jobs]
+* https://stackoverflow.com/jobs?v=true&t=true&sort=p[Stack Overflow Jobs]. Stack Overflow have a wide range of international
+jobs listings. It also allows you to filter by tech, location you are interested in. Visa Sponsor or Support relocation
+is also an important filter to have in mind while relocating from Bangladesh. By using those it is really easy to find out
   - Sponsoring visa filter is important here.
+
 * https://www.google.com/search?q=Ask+HN%3A+Who+is+hiring[Hacker News: Who is hiring]
   - Every month there will be a post titled: Hacker News: Who is hiring.
   - https://whoishiring.io[This website curate comments from HN post]
+
+* https://www.linkedin.com/jobs/search/?f_E=2%2C4&f_TP=1%2C2&sortBy=DD[LinkedIn Jobs.] Also have various job postings. Allows
+to use filter by location or Country or even experience levels.
+  - LinkedIn doesn't have visa sponsor filter.
+  - Read the job post to check if they are sponsoring visa.
+
+* https://jobs.github.com/[Github Jobs].
+
+* Slack Channel. Most of the technologies have there slack, like for golang there is link:https://gophers.slack.com[].
+Most of them have internal career or job chanel with lots of related job postings.
+
 * https://github.com/lukasz-madon/awesome-remote-job#job-boards[Remote job boards] could be useful.
 
-
 ### How to build own profile to get the interview call
-
-* Contribute to opensource projects. https://github.com/CodeForBangladesh[Code for Bangladesh] could be your start.
+* Contribute to open source projects. https://github.com/CodeForBangladesh[Code for Bangladesh] could be your start.
 * Work on personal projects, better be exceptional, show your best work. Do not forget to mention on CV.
 * Right CV, make them an offer they can't refuse.
-* Talk to the people who been though this process.
+* Talk to the people who been through this process.
+* Build a LinkedIn Profile aligned with your CV.
+
+### How to Prepare
+TODO: Needs Update
+
+### What to Expect in an interview
+TODO: Needs update
+
+- link:interviews.md[Read] the common ways of tech interviews and what to expect after you start applying.
 
 
 ### Contribute
-
-Contributions are always welcome! Create a pull request.
-
+Contributions are always welcome! Feel free to Create a pull request.
 
 ### Copyright & License
-
 Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
