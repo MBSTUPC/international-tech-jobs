@@ -45,6 +45,8 @@ Most of them have internal career or job chanel with lots of related job posting
 * Talk to the people who been through this process.
 * Build a LinkedIn Profile aligned with your CV.
 
+### link:stories/README.md[Stories of Some MBSTUian relocating with Tech Jobs]
+
 ### How to Prepare
 TODO: Needs Update
 
