@@ -1,0 +1,72 @@
+### Introduction
+
+```
+Mossaddeque Mahmood
+ICT, 3rd batch
+Backbase B.V.
+Lead Software Developer
+mahmood@chumbok.com
+```
+Here are my https://github.com/mmahmoodictbd[Github], http://www.linkedin.com/pub/mossaddeque-mahmood/39/50/702[LinkedIn] and http://unloadbrain.com/[My blog]
+
+
+#### Motivation for relocate
+
+- Wanted to join an international company.
+- Tech jobs are drying up in Bangladesh.
+
+
+#### Experiences
+
+At the time I moved to Amsterdam, I had 5 years of industry experience.
+
+
+#### How did I Start looking abroad jobs
+
+Started looking into all the job boards, picking the right one and apply.
+
+
+#### Relocating
+
+- Company handled everything which includes visa/work permit and 1 month accommodation.
+- Papers I needed:
+  * Passports.
+  * Marriage certificate, translated and notarized since it was in Bangla.
+  * Birth Certificates (both my wife and I), need to be translated and notarized too.
+- Carry papers when you fly:
+  * Offer latter.
+  * Health insurance.
+  * Accommodation confirmation paper.
+- Bring all the certificates.
+- Previous job's offer latter and experience latter.
+- Always ask the HR / contact in the company which paper to bring. If are just applying, you may prepare papers like
+translated and notarized documents.
+
+
+#### Tips or Guidance for others
+
+- Talk with someone friendly who been though the process.
+- Interview invite is tough:
+  * Don't blindly apply. Search for the company online. Glassdoor, LinkedIn and company website might be helpful.
+  * Modify your CV according to the information you got in the last step. Read the job post multiple times, check
+  what they want.
+  * Add personal projects, try to build something cool.
+- When applying jobs:
+  * Try to send the application as an email.
+  * Don't send generic email to all. Write something that people might get interested.
+- Homework or assignment:
+  * Company might ask you to do a homework to check your skill.
+  * Do it in a way you know best.
+  * Show your code to someone who might be better than you.
+- Interview:
+  * Read interview tips online.
+  * I went though lots of interviews, the more you do, the more you get better.
+  * Do mock interview with friends.
+  * Work on you communication skill aka English conversation.
+  * Make sure you got good internet connection.
+  * Make sure room is quite and has enough light. Ceiling fan create tons of noise.
+  * Try to make a conversation rather answering the question interviewer ask. Joke around.
+
+
+#### Future Goals
+Open up Chumbok IT office around the world.
